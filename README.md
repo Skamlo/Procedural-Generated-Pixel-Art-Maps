@@ -33,6 +33,7 @@ Durning generating maps we can modulate some parameters:
 </font>
 
 And finally we getting maps like this:
+
 ![map](img.png)
 
 
