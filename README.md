@@ -39,11 +39,9 @@ And finally we getting maps like this:
 
 
 ## Technologies Used
--numpy - version 1.22.2
-
--Pillow - version 9.0.1
-
--perlin_noise - version 1.12
+- numpy - version 1.22.2
+- Pillow - version 9.0.1
+- perlin_noise - version 1.12
 
 
 ## Setup
