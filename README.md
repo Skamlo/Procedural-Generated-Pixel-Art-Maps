@@ -35,7 +35,7 @@ Durning generating maps we can modulate some parameters:
 
 And finally we getting maps like this:
 
-![map](img.png)
+![map](img/imgInREADME.png)
 
 
 ## Technologies Used
