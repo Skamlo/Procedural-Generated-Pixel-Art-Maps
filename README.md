@@ -45,7 +45,7 @@ And finally we getting maps like this:
 
 
 ## Setup
-If you want to run this program you have to install three packages - `numpy`, `Pillow` and `perlin_noise`. You can do it with pip method by typing `pip install scikit-learn customtkinter` cammand in system console.
+If you want to run this program you have to install three packages - `numpy`, `Pillow` and `perlin_noise`. You can do it with pip method by typing `pip install numpy Pillow perlin_noise` cammand in system console.
 
 
 ## Contact
